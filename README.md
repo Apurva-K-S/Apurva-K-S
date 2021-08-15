@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Apurva-K-S" alt="Apurva-K-S" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Apurva-K-S&color=brightgreen" alt="Apurva-K-S" /> </p>
 
 ## 🔧 Skills
 
