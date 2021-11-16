@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Apurva-K-S&color=blueviolet" alt="Apurva-K-S" /> </p>
 
@@ -27,7 +28,7 @@
 ![](https://img.shields.io/badge/Android_Automotive-informational?style=flat&logo=Android&logoColor=black&color=f8ff38) &nbsp;
 ![](https://img.shields.io/badge/SELinux-informational?style=flat&logo=Linux&logoColor=black&color=f8ff38) &nbsp;
 
-<!--
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=38fcff)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=38fcff)
 
